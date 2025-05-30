@@ -1,0 +1,10 @@
+README.md
+setup.py
+git_manager/__init__.py
+git_manager/cli.py
+git_manager/github.py
+git_manager.egg-info/PKG-INFO
+git_manager.egg-info/SOURCES.txt
+git_manager.egg-info/dependency_links.txt
+git_manager.egg-info/entry_points.txt
+git_manager.egg-info/top_level.txt
